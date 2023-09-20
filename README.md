@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Python,DSA**
 
-- 🌱 I’m currently learning **Django,Android Studio**
+- 🌱 I’m currently learning **Django**
 
 - 👯 I’m looking to collaborate on **Python and SQL related applications**
 
