@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satya</h1>
 <h3 align="center">An amicable and passionate dev from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyajay07&label=Profile%20views&color=0e75b6&style=flat" alt="satyajay07" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyajay07&label=Profile%20views&color=brightgreen&style=flat" alt="satyajay07" /> </p>
 
 - 🔭 I’m currently working on **Python,DSA**
 
