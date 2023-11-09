@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SatyaJay07](https://github.com/SatyaJay07)
 
-- 📝 I regularly write articles on [Have to start some](Have to start some)
-
 - 💬 Ask me about **Anything you want, happy to make convos**
 
 - 📫 How to reach me **satyaajay90@gmail.com**
