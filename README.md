@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Python,DSA**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **React,Redux,Django Dev**
 
-- 👯 I’m looking to collaborate on **Python and SQL related applications**
+- 👯 I’m looking to collaborate on **React & Django**
 
-- 🤝 I’m looking for help with **Postgres SQL**
+- 🤝 I’m looking for help with **Mongo DB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SatyaJay07](https://github.com/SatyaJay07)
 
