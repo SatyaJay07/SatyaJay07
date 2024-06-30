@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satya</h1>
-<h3 align="center">India, I jump from tech to tech just coz i can't a best partner 😂 in tech</h3>
+<h3 align="center">India, I'm hopping from tech to tech just coz i can't find a best partner 😂 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyajay07&label=Profile%20views&color=brightgreen&style=flat" alt="satyajay07" /> </p>
 
