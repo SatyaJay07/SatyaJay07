@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on **Python,DSA**
 
-- 🌱 I’m currently learning **React,Redux,Django Dev**
+- 🌱 I’m currently learning **Everything Possible, XD**
 
 - 👯 I’m looking to collaborate on **React & Django**
 
-- 🤝 I’m looking for help with **Mongo DB**
+- 🤝 I’m looking for help with **DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SatyaJay07](https://github.com/SatyaJay07)
 
-- 💬 Ask me about **Anything you want, happy to make convos**
+- 💬 Ask me about **Funny Triffles**
 
 - 📫 How to reach me **satyaajay90@gmail.com**
 
